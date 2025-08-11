@@ -23,8 +23,7 @@ The goal is to assist early warning systems by providing predictive insights int
 
 ##  Results
 -  **Model Used**: Random Forest Classifier
--  **Accuracy Achieved**: **88%**
--  Well-balanced precision/recall across risk categories
+- 
 
 ---
 
